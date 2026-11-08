@@ -1,0 +1,241 @@
+1	小規模	しょうきぼ	Quy mô nhỏ, Small scale
+2	接続	せつぞく	Kết nối, Connection
+3	ネットワーク	ネットワーク	Mạng, Network
+4	LAN	ラン	Mạng nội bộ, Local Area Network
+5	データ	データ	Dữ liệu, Data
+6	記憶装置	きおくそうち	Thiết bị lưu trữ, Storage device
+7	共有	きょうゆう	Chia sẻ, Sharing
+8	入出力	にゅうしゅつりょく	Nhập xuất, Input/output
+9	端末	たんまつ	Thiết bị đầu cuối, Terminal
+10	送信	そうしん	Gửi, Transmission
+11	伝送路	でんそうろ	Đường truyền, Transmission line
+12	通信	つうしん	Truyền thông, Communication
+13	機器	きき	Thiết bị, Device
+14	接続形態	せつぞくけいたい	Hình thức kết nối, Connection type
+15	信号	しんごう	Tín hiệu, Signal
+16	仕組み	しくみ	Cơ chế, Mechanism
+17	優先	ゆうせん	Ưu tiên, Priority
+18	アクセス制御方式	アクセスせいぎょほうしき	Phương pháp kiểm soát truy cập, Access control method
+19	CSMA/CD方式	シーエスエムエーシーディーほうしき	Phương pháp CSMA/CD, CSMA/CD method
+20	回線	かいせん	Đường truyền, Line
+21	バッティング	バッティング	Xung đột, Collision
+22	衝突	しょうとつ	Xung đột, Collision
+23	検出	けんしゅつ	Phát hiện, Detection
+24	タイミング	タイミング	Thời điểm, Timing
+25	再送	さいそう	Gửi lại, Retransmission
+26	処理速度	しょりそくど	Tốc độ xử lý, Processing speed
+1	広域ネットワーク	こういきネットワーク	Mạng diện rộng, Wide area network
+2	WAN	ワン	WAN, Wide Area Network
+3	構築	こうちく	Xây dựng, Construction
+4	ケーブル	ケーブル	Dây cáp, Cable
+5	敷設	ふせつ	Trải cáp, Installation
+6	電気通信	でんきつうしん	Viễn thông, Telecommunications
+7	電気通信事業者	でんきつうしんじぎょうしゃ	Nhà cung cấp viễn thông, Telecom provider
+8	サービス	サービス	Dịch vụ, Service
+9	インターネット	インターネット	Internet, Internet
+10	形態	けいたい	Hình thức, Form
+11	分類	ぶんるい	Phân loại, Classification
+12	専用線方式	せんようせんほうしき	Phương thức đường truyền riêng, Dedicated line method
+13	セキュリティ	セキュリティ	Bảo mật, Security
+14	通信速度	つうしんそくど	Tốc độ truyền thông, Communication speed
+15	通信料金	つうしんりょうきん	Phí truyền thông, Communication fee
+16	パケット交換方式	パケットこうかんほうしき	Phương thức chuyển mạch gói, Packet switching method
+17	パケット	パケット	Gói dữ liệu, Packet
+18	単位	たんい	Đơn vị, Unit
+19	分割	ぶんかつ	Chia nhỏ, Division
+20	共有回線	きょうゆうかいせん	Đường truyền chia sẻ, Shared line
+21	経由	けいゆ	Thông qua, Via
+22	従量制	じゅうりょうせい	Tính theo mức sử dụng, Pay-as-you-go
+23	固定料金制	こていりょうきんせい	Phí cố định, Flat rate system
+24	FTTH	エフティーティーエイチ	FTTH, Fiber To The Home
+25	光ファイバー	ひかりファイバー	Cáp quang, Optical fiber
+26	高速データ通信	こうそくデータつうしん	Truyền dữ liệu tốc độ cao, High-speed data communication
+27	プロトコル	プロトコル	Giao thức, Protocol
+28	通信プロトコル	つうしんプロトコル	Giao thức truyền thông, Communication protocol
+29	手順	てじゅん	Thủ tục, Procedure
+30	メーカ	メーカ	Nhà sản xuất, Manufacturer
+31	機種	きしゅ	Loại thiết bị, Model
+32	機能	きのう	Chức năng, Function
+33	OSI基本参照モデル	オーエスアイきほんさんしょうモデル	Mô hình tham chiếu OSI, OSI reference model
+34	共通	きょうつう	Chung, Common
+35	ISO	アイエスオー	Tổ chức ISO, ISO
+36	ソフトウェア	ソフトウェア	Phần mềm, Software
+37	開発	かいはつ	Phát triển, Development
+38	スムーズ	スムーズ	Mượt mà, Smooth
+39	階層	かいそう	Tầng, Layer
+40	名称	めいしょう	Tên gọi, Name
+41	役割	やくわり	Vai trò, Role
+42	アプリケーション層	アプリケーションそう	Tầng ứng dụng, Application layer
+43	プレゼンテーション層	プレゼンテーションそう	Tầng trình bày, Presentation layer
+44	セション層	セションそう	Tầng phiên, Session layer
+45	トランスポート層	トランスポートそう	Tầng truyền tải, Transport layer
+46	ネットワーク層	ネットワークそう	Tầng mạng, Network layer
+47	データリンク層	データリンクそう	Tầng liên kết dữ liệu, Data link layer
+48	物理層	ぶつりそう	Tầng vật lý, Physical layer
+49	ファイル	ファイル	Tập tin, File
+50	転送	てんそう	Chuyển, Transfer
+51	閲覧	えつらん	Xem, Viewing
+52	規定	きてい	Quy định, Regulation
+53	文字	もじ	Ký tự, Character
+54	文字コード	もじコード	Mã ký tự, Character code
+55	暗号	あんごう	Mã hóa, Encryption
+56	形式	けいしき	Định dạng, Format
+57	信頼性	しんらいせい	Độ tin cậy, Reliability
+58	確保	かくほ	Bảo đảm, Ensure
+59	経路	けいろ	Đường đi, Route
+60	選択	せんたく	Lựa chọn, Selection
+61	ルーティング	ルーティング	Định tuyến, Routing
+62	中継	ちゅうけい	Trung chuyển, Relay
+63	誤り	あやまり	Lỗi, Error
+64	要求	ようきゅう	Yêu cầu, Request
+65	コネクタ	コネクタ	Đầu nối, Connector
+66	レベル	レベル	Mức độ, Level
+67	エンドシステム	エンドシステム	Hệ thống đầu cuối, End system
+1	ネットワーク機器	ネットワークきき	Thiết bị mạng, Network device
+2	リピータ	リピータ	Bộ lặp, Repeater
+3	波形	はけい	Dạng sóng, Waveform
+4	増幅	ぞうふく	Khuếch đại, Amplification
+5	距離	きょり	Khoảng cách, Distance
+6	延長	えんちょう	Mở rộng, Extension
+7	ブリッジ	ブリッジ	Cầu nối, Bridge
+8	MACアドレス	マックアドレス	Địa chỉ MAC, MAC address
+9	接続ポート	せつぞくポート	Cổng kết nối, Connection port
+10	宛先	あてさき	Địa chỉ đích, Destination
+11	LANポート	ランポート	Cổng LAN, LAN port
+12	スイッチングハブ	スイッチングハブ	Hub chuyển mạch, Switching hub
+13	レイヤ2スイッチ	レイヤツースイッチ	Layer 2 switch, Layer 2 switch
+14	出荷	しゅっか	Xuất hàng, Shipment
+15	ビット	ビット	Bit, Bit
+16	番号	ばんごう	Số, Number
+17	識別	しきべつ	Nhận diện, Identification
+18	先頭	せんとう	Đầu tiên, First
+19	固有	こゆう	Riêng biệt, Unique
+20	後続	こうぞく	Tiếp theo, Subsequent
+21	OUI	オー ユー アイ	OUI, Organizationally Unique Identifier
+22	ベンダ	ベンダ	Nhà cung cấp, Vendor
+23	ID	アイディー	Mã định danh, ID
+24	ルータ	ルータ	Bộ định tuyến, Router
+25	IPアドレス	アイピーアドレス	Địa chỉ IP, IP address
+26	ハードウェア	ハードウェア	Phần cứng, Hardware
+27	レイヤ3スイッチ	レイヤスリースイッチ	Layer 3 switch, Layer 3 switch
+28	処理能力	しょりのうりょく	Năng lực xử lý, Processing capacity
+29	ゲートウェイ	ゲートウェイ	Cổng kết nối, Gateway
+30	変換	へんかん	Chuyển đổi, Conversion
+31	ARP	エーアールピー	ARP, Address Resolution Protocol
+32	RARP	アールエーアールピー	RARP, Reverse ARP
+33	取得	しゅとく	Thu nhận, Acquisition
+34	コマンド	コマンド	Lệnh, Command
+35	参照	さんしょう	Tham chiếu, Reference
+1	TCP/IP	ティーシーピーアイピー	Giao thức TCP/IP, TCP/IP protocol
+2	デファクトスタンダード	デファクトスタンダード	Tiêu chuẩn thực tế, De facto standard
+3	ネットワークインタフェース層	ネットワークインタフェースそう	Lớp giao diện mạng, Network interface layer
+4	HTTP	エイチティーティーピー	Giao thức truyền siêu văn bản, HyperText Transfer Protocol
+5	FTP	エフティーピー	Giao thức truyền tệp, File Transfer Protocol
+6	TELNET	テルネット	Telnet, Telnet
+7	SMTP	エスエムティーピー	Giao thức gửi thư, Simple Mail Transfer Protocol
+8	POP3	ポップスリー	Giao thức nhận thư POP3, Post Office Protocol version 3
+9	NTP	エヌティーピー	Giao thức đồng bộ thời gian, Network Time Protocol
+10	SNMP	エスエヌエムピー	Giao thức quản lý mạng đơn giản, Simple Network Management Protocol
+11	TCP	ティーシーピー	Giao thức điều khiển truyền vận, Transmission Control Protocol
+12	UDP	ユーディーピー	Giao thức datagram người dùng, User Datagram Protocol
+13	IP	アイピー	Giao thức Internet, Internet Protocol
+14	PPP	ピーピーピー	Giao thức điểm-điểm, Point-to-Point Protocol
+15	イーサネット	イーサネット	Ethernet, Ethernet
+16	電子メール	でんしメール	Thư điện tử, Email
+17	Webサイト	ウェブサイト	Trang web, Website
+18	Webページ	ウェブページ	Trang web con, Web page
+19	ポート番号	ポートばんごう	Số hiệu cổng, Port number
+20	ログイン	ログイン	Đăng nhập, Login
+21	遠隔操作	えんかくそうさ	Điều khiển từ xa, Remote control
+22	メールサーバ	メールサーバ	Máy chủ thư, Mail server
+23	メーラ	メーラ	Phần mềm gửi nhận thư, Mail client
+24	受信	じゅしん	Nhận, Reception
+25	時刻	じこく	Thời điểm, Specific time
+26	同期	どうき	Đồng bộ, Synchronization
+27	配信	はいしん	Phân phối, Delivery
+28	未読	みどく	Chưa đọc, Unread
+29	削除	さくじょ	Xoá, Deletion
+30	操作	そうさ	Thao tác, Operation
+31	迷惑メール	めいわくメール	Thư rác, Spam mail
+32	防止	ぼうし	Ngăn chặn, Prevention
+33	認証	にんしょう	Xác thực, Authentication
+34	SMTP-AUTH	エスエムティーピーオース	Giao thức xác thực SMTP, SMTP Authentication
+35	MIME	マイム	Tiêu chuẩn MIME, Multipurpose Internet Mail Extensions
+36	本文	ほんぶん	Nội dung chính, Body
+37	ヘッダ	ヘッダ	Phần đầu, Header
+38	拡張	かくちょう	Mở rộng, Extension
+39	テキスト	テキスト	Văn bản, Text
+40	音声	おんせい	Âm thanh, Audio
+41	画像	がぞう	Hình ảnh, Image
+42	規格	きかく	Tiêu chuẩn, Standard
+43	強化	きょうか	Tăng cường, Enhancement
+44	暗号化	あんごうか	Mã hóa, Encryption
+45	ディジタル署名	デジタルしょめい	Chữ ký số, Digital signature
+46	S/MIME	エスマイム	Chuẩn bảo mật S/MIME, Secure/Multipurpose Internet Mail Extensions
+47	リモート	リモート	Từ xa, Remote
+48	即時性	そくじせい	Tính tức thời, Immediacy
+49	仮想	かそう	Ảo, Virtual
+50	仮想端末	かそうたんまつ	Thiết bị đầu cuối ảo, Virtual terminal
+51	リアルタイム	リアルタイム	Thời gian thực, Real-time
+52	規約	きやく	Quy ước, Convention
+53	ヘッダフィールド	ヘッダフィールド	Trường tiêu đề, Header field
+1	IPアドレス	アイピーアドレス	Địa chỉ IP, IP address
+2	一意	いちい	Duy nhất, Unique
+3	認識番号	にんしきばんごう	Mã nhận diện, Identification number
+4	2進数	にしんすう	Hệ nhị phân, Binary number
+5	桁	けた	Số chữ số, Digit
+6	IPv4	アイピーブイフォー	Giao thức IPv4, IPv4 protocol
+7	ドット	ドット	Dấu chấm, Dot
+8	10進数	じっしんすう	Hệ thập phân, Decimal number
+9	計算	けいさん	Tính toán, Calculation
+10	数字	すうじ	Con số, Number
+11	ping	ピング	Lệnh ping, Ping
+12	応答	おうとう	Phản hồi, Response
+13	正常	せいじょう	Bình thường, Normal
+14	到達不能	とうたつふのう	Không thể đến được, Unreachable
+15	障害	しょうがい	Sự cố, Failure
+16	ポート番号	ポートばんごう	Số cổng, Port number
+17	ウェルノウンポート	ウェルノウンポート	Cổng phổ biến, Well-known port
+18	クライアント	クライアント	Máy khách, Client
+19	送信元	そうしんもと	Nguồn gửi, Source
+20	ポートスキャナ	ポートスキャナ	Công cụ quét cổng, Port scanner
+21	有効	ゆうこう	Có hiệu lực, Active
+22	稼働	かどう	Đang chạy, Active operation
+23	攻撃	こうげき	Tấn công, Attack
+24	設定	せってい	Cài đặt, Configuration
+25	検査	けんさ	Kiểm tra, Inspection
+26	DNS	ディーエヌエス	Hệ thống phân giải tên miền, Domain Name System
+27	ドメイン	ドメイン	Tên miền, Domain
+28	ドメイン名	ドメインめい	Tên miền, Domain name
+29	DNSサーバ	ディーエヌエスサーバ	Máy chủ DNS, DNS server
+30	ホスト名	ホストめい	Tên host, Hostname
+1	グローバルIPアドレス	グローバルアイピーアドレス	Địa chỉ IP công cộng, Global IP address
+2	プライベートIPアドレス	プライベートアイピーアドレス	Địa chỉ IP nội bộ, Private IP address
+3	節約	せつやく	Tiết kiệm, Saving
+4	NIC	ニック／エヌアイシー	Card mạng, Network Interface Card
+5	重複	ちょうふく	Trùng lặp, Duplication
+6	発行	はっこう	Cấp phát, Issuance
+7	範囲	はんい	Phạm vi, Range
+8	クラスＡ	クラスエー	Lớp A, Class A
+9	クラスＢ	クラスビー	Lớp B, Class B
+10	クラスＣ	クラスシー	Lớp C, Class C
+11	ループバックアドレス	ループバックアドレス	Địa chỉ loopback, Loopback address
+12	バイト	バイト	Byte, Byte
+13	NAT	ナット	Chuyển địa chỉ mạng, Network Address Translation
+14	NAPT	ナプト	Chuyển địa chỉ và cổng, Network Address Port Translation
+15	相互交換	そうごこうかん	Trao đổi lẫn nhau, Mutual exchange
+16	IPマスカレード	アイピーマスカレード	Che giấu địa chỉ IP, IP masquerade
+17	1対1	いったいいち	Một-một, One-to-one
+18	多対1	たたいいち	Nhiều-một, Many-to-one
+19	動的	どうてき	Động, Dynamic
+20	自動的	じどうてき	Tự động, Automatically
+21	回収	かいしゅう	Thu hồi, Reclamation
+22	DHCP	ディーエイチシーピー	Giao thức cấp phát IP động, Dynamic Host Configuration Protocol
+23	手動	しゅどう	Thủ công, Manual
+24	返却	へんきゃく	Hoàn trả, Return
+25	割り当て	わりあて	Phân bổ, Allocation
+26	DHCPサーバ	ディーエイチシーピーサーバ	Máy chủ DHCP, DHCP server
+27	IPv6	アイピーブイシックス	Giao thức IPv6, IPv6 protocol
+28	次世代	じせだい	Thế hệ tiếp theo, Next generation
+29	16進数	じゅうろくしんすう	Hệ thập lục phân, Hexadecimal
+30	コロン	コロン	Dấu hai chấm, Colon
